@@ -12,7 +12,6 @@ O exemplo mostra algumas formas de como o desenvolvedor pode trabalhar com as Ac
 2º Como enviar uma informação para outro Activity.  <br />
 3º Como Chamar uma Activity e receber uma informação dela.
 
-
 Mini Projeto Dois
 ===================
 
