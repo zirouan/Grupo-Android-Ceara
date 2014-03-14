@@ -1,4 +1,4 @@
-Grupo-Android-Ceara
+Android Ceará [o-O]
 ===================
 
-Todos os minis projeto do grupo Android Ceará [o-O]
+Todos os minis projeto do grupo 
