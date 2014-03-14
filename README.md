@@ -1,7 +1,7 @@
 Android Ceará [o-O]
 ===================
 
-Todos os minis projeto do grupo 
+Grupo: https://www.facebook.com/groups/androidceara/
 
 Mini Projeto Um
 ===================
