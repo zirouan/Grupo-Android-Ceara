@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MiniProjetoUm</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Principal -->
+
+    <string name="chamar_nova_tela">Chamar uma nova tela</string>
+    <string name="enviar_informacao_para_nova_tela">Enviar informação para nova tela</string>
+    <string name="receber_informacao_da_nova_tela">Receber informação da nova tela</string>
+    <string name="digite_aqui_hint">Digite aqui qualquer coisa</string>
+    <string name="resultado">Resultado</string>
+    <string name="deu_certo">Deu Certo \o/</string>    
+    <string name="enviar">Enviar</string>    
+    
+    <string name="title_activity_activity_um">ActivityUm</string>
+    <string name="title_activity_activity_dois">ActivityDois</string>
+    <string name="title_activity_activity_tres">ActivityTres</string>
+
+</resources>

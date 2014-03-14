@@ -1,0 +1,51 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btnChamarTela"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="@string/chamar_nova_tela" />
+
+        <EditText
+            android:id="@+id/edtDigiteAqui"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"            
+            android:hint="@string/digite_aqui_hint" >
+        </EditText>
+
+        <Button
+            android:id="@+id/btnEnviarInformacao"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"            
+            android:text="@string/enviar_informacao_para_nova_tela" />
+
+        <Button
+            android:id="@+id/btnReceberInformacao"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"            
+            android:text="@string/receber_informacao_da_nova_tela" />
+
+        <TextView
+            android:id="@+id/txtResultado"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"            
+            android:gravity="center"
+            android:text="@string/resultado" />
+    </LinearLayout>
+
+</ScrollView>

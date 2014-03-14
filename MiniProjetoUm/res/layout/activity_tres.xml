@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    tools:context=".ActivityTres" >
+
+    <EditText
+        android:id="@+id/edtInformacao"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/digite_aqui_hint"
+        android:layout_marginTop="30dp">        
+    </EditText>
+
+    <Button
+        android:id="@+id/btnEnviar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtInformacao"
+        android:layout_marginTop="10dp"
+        android:text="@string/enviar" />
+
+</RelativeLayout>
