@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MiniProjetoDois</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="botao_titulo">Título</string>
+    <string name="botao_subtitulo">Sub Título</string>    
+    <string name="botao_home">Ativar botão home</string>    
+    <string name="botao_icone">Ícone</string>    
+    
+    <string name="add">Adicionar</string>    
+    <string name="delete">Excluir</string>
+    <string name="settings">Configuração</string>    
+
+</resources>
