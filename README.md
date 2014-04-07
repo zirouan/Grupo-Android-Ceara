@@ -6,6 +6,13 @@ Grupo: https://www.facebook.com/groups/androidceara/
 Mini Projeto Um
 ===================
 
+Subject: Working with Activitys <br />
+The example shows some ways of how the developer can work with Activitys.
+
+1 How to call an Activity simple. <br />
+2 How to send information to another Activity. <br />
+3 How to Call an Activity and receive information from it. <br />
+
 Assunto: Trabalhando com Activitys  <br />
 
 O exemplo mostra algumas formas de como o desenvolvedor pode trabalhar com as Activitys.
@@ -18,6 +25,21 @@ Documentação: http://developer.android.com/reference/android/app/Activity.html
 
 Mini Projeto Dois
 ===================
+
+Subject: Using the Google ActionBarCompat <br />
+
+The example shows how to use some of the functionality ActionBarCompat.
+
+To run the sample you must import the ActionBarCompat project. <br />
+
+Tip:
+Download the MiniProjetoDois and ActionBarCompat projects, open the eclipse and the clean area of the Package Explorer right click, look for the Android folder and select "Existing Android Code Into Workspace" -> next -> Brower button, add the project and check "Copy projects into workspace" and Finish.
+
+
+Tip:
+Once you have imported the MiniProjetoDois ActionBarCompat and you should click the right button on MiniProjetoDois,
+Properties -> Android -> Add button, and the "Project Selection" window escolhar the ActionBarCompat, then OK and OK.
+
 
 Assunto: Utilizando a ActionBarCompat da Google  <br />
 
@@ -39,6 +61,10 @@ Documentação: http://developer.android.com/guide/topics/ui/actionbar.html <br 
 
 Mini Projeto Três (Em breve)
 ===================
+
+Subject: Using SQLite <br />
+
+The MiniProjetoTres project is a project that anger evolve in cycles of one week. He goes from a simple insert to SQLite database on a list of saved records (ListView + Adapter).
 
 Assunto: Utilizando SQLite  <br />
 
